@@ -9,6 +9,7 @@ int main() {
 	    for(j=0;j<2;j++){
 	        cin>>b[j];
 	    }
+      //new part
 	    if (b[0]>b[1]){
 	        int c,d;
 	        c=b[0]-b[1];
